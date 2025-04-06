@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhushieBrahma
-- 🌱 I'm currently learing Software Development/AI/Machine-Deep Learning/Data Science
+- 🌱 I'm currently learing Software Development/ AI/ Machine-Deep Learning/ Data Science
 - 📫 How to reach me khushiebrahma@gmail.com
 
 <!---
